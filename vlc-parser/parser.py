@@ -36,6 +36,8 @@ def convert_to_m3u(elem):
                   get_info_track(elem, "title") + "\n" + get_info_track(elem, "location") + "\n"
     return message
 
+
+playlistm3u.write("#EXTM3U \n")
 for item in tracklist:
     playlistm3u.write(convert_to_m3u(item))
 
