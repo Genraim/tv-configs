@@ -61,26 +61,136 @@ udp://@239.255.2.29:1234
 udp://@239.255.3.83:1234
 #EXTINF:0 group-title="Эфирный" tvg-logo="http://gl.weburg.net/00/tv/channels/1/283/amino/518530.jpg" aspect-ratio="16:9", Тагил-ТВ
 udp://@239.255.3.84:1234
-#EXTINF:0 group-title="Промо" tvg-logo="http://gl.weburg.net/00/tv/channels/1/631/amino/5661879.jpg" aspect-ratio="16:9", AB Moteurs
-udp://@239.255.3.82:1234
 #EXTINF:0 group-title="Промо" tvg-logo="http://gl.weburg.net/00/tv/channels/1/629/amino/5519920.jpg" aspect-ratio="16:9", Vintage TV
 udp://@239.255.2.205:1234
-#EXTINF:0 group-title="Промо" tvg-logo="http://gl.weburg.net/00/tv/channels/1/633/amino/5662027.jpg" aspect-ratio="16:9", Эра-ТВ
-udp://@239.255.3.83:1234
 #EXTINF:0 group-title="Промо" tvg-logo="http://gl.weburg.net/00/tv/channels/1/628/amino/5519646.jpg" aspect-ratio="16:9", Матч ТВ HD
 udp://@239.255.3.81:1234
-#EXTINF:0 group-title="Промо" tvg-logo="http://gl.weburg.net/00/tv/channels/1/625/amino/5448688.jpg" aspect-ratio="16:9", C MUSIC TV HD
-udp://@239.255.3.80:1234
 #EXTINF:0 group-title="3D" tvg-logo="http://gl.weburg.net/00/tv/channels/1/605/amino/4333579.jpg" aspect-ratio="16:9", Anyday TV 3D
 udp://@239.255.3.69:1234
 #EXTINF:0 group-title="3D" tvg-logo="http://gl.weburg.net/00/tv/channels/1/603/amino/4333573.jpg" aspect-ratio="16:9", Glazella 3D
 udp://@239.255.3.71:1234
 #EXTINF:0 group-title="3D" tvg-logo="http://gl.weburg.net/00/tv/channels/1/601/amino/4333567.jpg" aspect-ratio="16:9", Mute 3D
 udp://@239.255.3.73:1234
+#EXTINF:0 group-title="HD" tvg-logo="http://gl.weburg.net/00/tv/channels/1/152/amino/380720.jpg" aspect-ratio="16:9", Luxe TV HD
+udp://@239.255.2.21:1234
+#EXTINF:0 group-title="HD" tvg-logo="http://gl.weburg.net/00/tv/channels/1/182/amino/445135.jpg" aspect-ratio="16:9", HD Life
+udp://@239.255.2.135:1234
+#EXTINF:0 group-title="HD" tvg-logo="http://gl.weburg.net/00/tv/channels/1/267/amino/500836.jpg" aspect-ratio="16:9", TRACE URBAN HD
+udp://@239.255.2.183:1234
+#EXTINF:0 group-title="HD" tvg-logo="http://gl.weburg.net/00/tv/channels/1/429/amino/586565.jpg" aspect-ratio="16:9", Fashion One HD
+udp://@239.255.2.244:1234
+#EXTINF:0 group-title="HD" tvg-logo="http://gl.weburg.net/00/tv/channels/1/488/amino/841665.jpg" aspect-ratio="16:9", 1 HD
+udp://@239.255.2.249:1234
+#EXTINF:0 group-title="HD" tvg-logo="http://gl.weburg.net/00/tv/channels/1/526/amino/1739243.jpg" aspect-ratio="16:9", World Business Channel
+udp://@239.255.3.38:1234
 #EXTINF:0 group-title="HD" tvg-logo="http://gl.weburg.net/00/tv/channels/1/625/amino/5448688.jpg" aspect-ratio="16:9", C MUSIC TV HD
 udp://@239.255.3.80:1234
+#EXTINF:0 group-title="HD +" tvg-logo="http://gl.weburg.net/00/tv/channels/1/304/amino/529457.jpg" aspect-ratio="16:9", MTV Live HD
+udp://@239.255.2.201:1234
+#EXTINF:0 group-title="HD +" tvg-logo="http://gl.weburg.net/00/tv/channels/1/159/amino/380724.jpg" aspect-ratio="16:9", Еда HD
+udp://@239.255.2.86:1234
+#EXTINF:0 group-title="HD +" tvg-logo="http://gl.weburg.net/00/tv/channels/1/303/amino/529446.jpg" aspect-ratio="16:9", Nickelodeon HD
+udp://@239.255.2.202:1234
+#EXTINF:0 group-title="HD +" tvg-logo="http://gl.weburg.net/00/tv/channels/1/439/amino/603243.JPG" aspect-ratio="16:9", RT HD
+udp://@239.255.2.34:1234
+#EXTINF:0 group-title="HD +" tvg-logo="http://gl.weburg.net/00/tv/channels/1/438/amino/603236.jpg" aspect-ratio="16:9", RTД HD
+udp://@239.255.2.23:1234
+#EXTINF:0 group-title="HD +" tvg-logo="http://gl.weburg.net/00/tv/channels/1/492/amino/893573.jpg" aspect-ratio="16:9", RTД HD на русском
+udp://@239.255.2.162:1234
+#EXTINF:0 group-title="HD +" tvg-logo="http://gl.weburg.net/00/tv/channels/1/497/amino/939193.jpg" aspect-ratio="16:9", Eureka HD
+udp://@239.255.2.252:1234
+#EXTINF:0 group-title="HD +" tvg-logo="http://gl.weburg.net/00/tv/channels/1/590/amino/3862264.jpg" aspect-ratio="16:9", Ginger HD
+udp://@239.255.2.74:1234
+#EXTINF:0 group-title="Познавательный HD" tvg-logo="http://gl.weburg.net/00/tv/channels/1/219/amino/462972.jpg" aspect-ratio="16:9", National Geographic HD
+udp://@239.255.2.136:1234
+#EXTINF:0 group-title="Познавательный HD" tvg-logo="http://gl.weburg.net/00/tv/channels/1/220/amino/462974.jpg" aspect-ratio="16:9", Nat Geo Wild HD
+udp://@239.255.2.137:1234
+#EXTINF:0 group-title="Познавательный HD" tvg-logo="http://gl.weburg.net/00/tv/channels/1/231/amino/479494.jpg" aspect-ratio="16:9", Discovery Channel HD
+udp://@239.255.2.150:1234
+#EXTINF:0 group-title="Познавательный HD" tvg-logo="http://gl.weburg.net/00/tv/channels/1/230/amino/479490.jpg" aspect-ratio="16:9", Animal Planet HD
+udp://@239.255.2.149:1234
+#EXTINF:0 group-title="Познавательный HD" tvg-logo="http://gl.weburg.net/00/tv/channels/1/448/amino/620241.jpg" aspect-ratio="16:9", History HD
+udp://@239.255.2.159:1234
+#EXTINF:0 group-title="Познавательный HD" tvg-logo="http://gl.weburg.net/00/tv/channels/1/450/amino/621261.png" aspect-ratio="16:9", TLC HD
+udp://@239.255.2.164:1234
+#EXTINF:0 group-title="Познавательный HD" tvg-logo="http://gl.weburg.net/00/tv/channels/1/498/amino/939309.jpg" aspect-ratio="16:9", Animal Family HD
+udp://@239.255.2.253:1234
+#EXTINF:0 group-title="Познавательный HD" tvg-logo="http://gl.weburg.net/00/tv/channels/1/599/amino/4266189.jpg" aspect-ratio="16:9", Живая природа HD
+udp://@239.255.3.68:1234
+#EXTINF:0 group-title="Познавательный HD" tvg-logo="http://gl.weburg.net/00/tv/channels/1/615/amino/4953485.jpg" aspect-ratio="16:9", English Club TV HD
+udp://@239.255.3.78:1234
+#EXTINF:0 group-title="Телепутешествия HD" tvg-logo="http://gl.weburg.net/00/tv/channels/1/158/amino/380725.jpg" aspect-ratio="16:9", Teletravel HD
+udp://@239.255.2.19:1234
+#EXTINF:0 group-title="Телепутешествия HD" tvg-logo="http://gl.weburg.net/00/tv/channels/1/447/amino/617649.JPG" aspect-ratio="16:9", RTG HD
+udp://@239.255.2.84:1234
+#EXTINF:0 group-title="Телепутешествия HD" tvg-logo="http://gl.weburg.net/00/tv/channels/1/309/amino/531748.jpg" aspect-ratio="16:9", Travel+Adventure HD
+udp://@239.255.2.206:1234
+#EXTINF:0 group-title="Телепутешествия HD" tvg-logo="http://gl.weburg.net/00/tv/channels/1/442/amino/612419.jpg" aspect-ratio="16:9", Travel Channel HD
+udp://@239.255.2.65:1234
+#EXTINF:0 group-title="Телепутешествия HD" tvg-logo="http://gl.weburg.net/00/tv/channels/1/310/amino/531945.jpg" aspect-ratio="16:9", Outdoor Channel HD
+udp://@239.255.2.207:1234
+#EXTINF:0 group-title="Телепутешествия HD" tvg-logo="http://gl.weburg.net/00/tv/channels/1/421/amino/577239.jpg" aspect-ratio="16:9", Охотник и рыболов HD
+udp://@239.255.2.237:1234
+#EXTINF:0 group-title="Спорт HD" tvg-logo="http://gl.weburg.net/00/tv/channels/1/410/amino/559999.jpg" aspect-ratio="16:9", КХЛ ТВ HD
+udp://@239.255.2.228:1234
+#EXTINF:0 group-title="Спорт HD" tvg-logo="http://gl.weburg.net/00/tv/channels/1/163/amino/380729.jpg" aspect-ratio="16:9", Eurosport 1 HD
+udp://@239.255.2.97:1234
+#EXTINF:0 group-title="Спорт HD" tvg-logo="http://gl.weburg.net/00/tv/channels/1/427/amino/585655.jpg" aspect-ratio="16:9", Eurosport 2 HD
+udp://@239.255.2.241:1234
+#EXTINF:0 group-title="Спорт HD" tvg-logo="http://gl.weburg.net/00/tv/channels/1/547/amino/2117733.jpg" aspect-ratio="16:9", HD Спорт
+udp://@239.255.3.53:1234
 #EXTINF:0 group-title="Спорт HD" tvg-logo="http://gl.weburg.net/00/tv/channels/1/628/amino/5519646.jpg" aspect-ratio="16:9", Матч ТВ HD
 udp://@239.255.3.81:1234
+#EXTINF:0 group-title="Россия HD" tvg-logo="http://gl.weburg.net/00/tv/channels/1/211/amino/462966.jpg" aspect-ratio="16:9", Спорт 1 HD
+udp://@239.255.2.138:1234
+#EXTINF:0 group-title="Россия HD" tvg-logo="http://gl.weburg.net/00/tv/channels/1/419/amino/576143.jpg" aspect-ratio="16:9", Россия HD
+udp://@239.255.2.236:1234
+#EXTINF:0 group-title="Россия HD" tvg-logo="http://gl.weburg.net/00/tv/channels/1/477/amino/660886.png" aspect-ratio="16:9", IQ HD
+udp://@239.255.2.213:1234
+#EXTINF:0 group-title="СуперКино HD" tvg-logo="http://gl.weburg.net/00/tv/channels/1/474/amino/652928.jpg" aspect-ratio="16:9", КиноПремиум HD
+udp://@239.255.2.174:1234
+#EXTINF:0 group-title="СуперКино HD" tvg-logo="http://gl.weburg.net/00/tv/channels/1/473/amino/652917.jpg" aspect-ratio="16:9", Наше HD
+udp://@239.255.2.186:1234
+#EXTINF:0 group-title="СуперКино HD" tvg-logo="http://gl.weburg.net/00/tv/channels/1/471/amino/652912.png" aspect-ratio="16:9", Остросюжетное HD
+udp://@239.255.2.179:1234
+#EXTINF:0 group-title="СуперКино HD" tvg-logo="http://gl.weburg.net/00/tv/channels/1/470/amino/652910.jpg" aspect-ratio="16:9", Семейное HD
+udp://@239.255.2.185:1234
+#EXTINF:0 group-title="Кино HD" tvg-logo="http://gl.weburg.net/00/tv/channels/1/359/amino/542286.jpg" aspect-ratio="16:9", SET HD
+udp://@239.255.2.219:1234
+#EXTINF:0 group-title="Кино HD" tvg-logo="http://gl.weburg.net/00/tv/channels/1/407/amino/550179.jpg" aspect-ratio="16:9", MGM HD
+udp://@239.255.2.190:1234
+#EXTINF:0 group-title="Кино HD" tvg-logo="http://gl.weburg.net/00/tv/channels/1/361/amino/542421.jpg" aspect-ratio="16:9", Fox Life HD
+udp://@239.255.2.223:1234
+#EXTINF:0 group-title="Кино HD" tvg-logo="http://gl.weburg.net/00/tv/channels/1/360/amino/542419.jpg" aspect-ratio="16:9", FOX HD
+udp://@239.255.2.222:1234
+#EXTINF:0 group-title="Кино HD" tvg-logo="http://gl.weburg.net/00/tv/channels/1/573/amino/3011548.jpg" aspect-ratio="16:9", Bollywood HD
+udp://@239.255.3.60:1234
+#EXTINF:0 group-title="Amedia Premium HD" tvg-logo="http://gl.weburg.net/00/tv/channels/1/463/amino/627337.jpg" aspect-ratio="16:9", Amedia Premium HD
+udp://@239.255.2.170:1234
+#EXTINF:0 group-title="Amedia Premium HD" tvg-logo="http://gl.weburg.net/00/tv/channels/1/589/amino/3667688.jpg" aspect-ratio="16:9", Amedia HIT HD
+udp://@239.255.2.24:1234
+#EXTINF:0 group-title="Viasat Premium HD" tvg-logo="http://gl.weburg.net/00/tv/channels/1/534/amino/2053014.jpg" aspect-ratio="16:9", TV 1000 Premium HD
+udp://@239.255.3.41:1234
+#EXTINF:0 group-title="Viasat Premium HD" tvg-logo="http://gl.weburg.net/00/tv/channels/1/535/amino/2053017.jpg" aspect-ratio="16:9", TV 1000 Megahit HD
+udp://@239.255.3.42:1234
+#EXTINF:0 group-title="Viasat Premium HD" tvg-logo="http://gl.weburg.net/00/tv/channels/1/536/amino/2053020.jpg" aspect-ratio="16:9", TV 1000 Comedy HD
+udp://@239.255.3.40:1234
+#EXTINF:0 group-title="Viasat Premium HD" tvg-logo="http://gl.weburg.net/00/tv/channels/1/532/amino/2053011.jpg" aspect-ratio="16:9", Viasat Nature HD
+udp://@239.255.2.98:1234
+#EXTINF:0 group-title="Viasat Premium HD" tvg-logo="http://gl.weburg.net/00/tv/channels/1/533/amino/2053008.jpg" aspect-ratio="16:9", Viasat History HD
+udp://@239.255.2.171:1234
+#EXTINF:0 group-title="Viasat Premium HD" tvg-logo="http://gl.weburg.net/00/tv/channels/1/531/amino/2053005.jpg" aspect-ratio="16:9", Viasat Sport HD
+udp://@239.255.3.44:1234
+#EXTINF:0 group-title="Viasat Premium HD" tvg-logo="http://gl.weburg.net/00/tv/channels/1/537/amino/2053038.jpg" aspect-ratio="16:9", Viasat Golf
+udp://@239.255.3.45:1234
+#EXTINF:0 group-title="ПЛЮС КИНО HD" tvg-logo="http://gl.weburg.net/00/tv/channels/1/538/amino/2053121.jpg" aspect-ratio="16:9", Премьера
+udp://@239.255.3.49:1234
+#EXTINF:0 group-title="ПЛЮС КИНО HD" tvg-logo="http://gl.weburg.net/00/tv/channels/1/100/amino/380683.jpg" aspect-ratio="16:9", Наше новое кино
+udp://@239.255.2.120:1234
+#EXTINF:0 group-title="ПЛЮС КИНО HD" tvg-logo="http://gl.weburg.net/00/tv/channels/1/539/amino/2053124.jpg" aspect-ratio="16:9", Киноклуб
+udp://@239.255.3.48:1234
+#EXTINF:0 group-title="ПЛЮС КИНО HD" tvg-logo="http://gl.weburg.net/00/tv/channels/1/540/amino/2053113.jpg" aspect-ratio="16:9", HD Кино
+udp://@239.255.3.52:1234
 #EXTINF:0 group-title="Открытый HD" tvg-logo="http://gl.weburg.net/00/tv/channels/1/153/amino/380721.jpg" aspect-ratio="16:9", MyZen HD
 udp://@239.255.2.139:1234
 #EXTINF:0 group-title="Открытый HD" tvg-logo="http://gl.weburg.net/00/tv/channels/1/218/amino/462971.jpg" aspect-ratio="16:9", Mezzo Live HD
@@ -131,7 +241,7 @@ udp://@239.255.2.56:1234
 udp://@239.255.2.31:1234
 #EXTINF:0 group-title="Открытый" tvg-logo="http://gl.weburg.net/00/tv/channels/1/126/amino/380706.jpg" aspect-ratio="16:9", Мужской
 udp://@239.255.2.75:1234
-#EXTINF:0 group-title="Открытый" tvg-logo="http://gl.weburg.net/00/tv/channels/1/466/amino/642170.png" aspect-ratio="16:9", LUXURY WORLD
+#EXTINF:0 group-title="Открытый" tvg-logo="http://gl.weburg.net/00/tv/channels/1/466/amino/642170.png" aspect-ratio="16:9", LUXURY
 udp://@239.255.2.42:1234
 #EXTINF:0 group-title="Открытый" tvg-logo="http://gl.weburg.net/00/tv/channels/1/59/amino/380650.jpg" aspect-ratio="16:9", Совершенно секретно
 udp://@239.255.2.115:1234
@@ -173,6 +283,38 @@ udp://@239.255.2.2:1234
 udp://@239.255.2.247:1234
 #EXTINF:0 group-title="Музыка" tvg-logo="http://gl.weburg.net/00/tv/channels/1/629/amino/5519920.jpg" aspect-ratio="16:9", Vintage TV
 udp://@239.255.2.205:1234
+#EXTINF:0 group-title="Music" tvg-logo="http://gl.weburg.net/00/tv/channels/1/302/amino/528627.jpg" aspect-ratio="16:9", VH1
+udp://@239.255.2.198:1234
+#EXTINF:0 group-title="Music" tvg-logo="http://gl.weburg.net/00/tv/channels/1/363/amino/545334.jpg" aspect-ratio="16:9", VH1 Classic
+udp://@239.255.2.216:1234
+#EXTINF:0 group-title="Music" tvg-logo="http://gl.weburg.net/00/tv/channels/1/357/amino/540151.jpg" aspect-ratio="16:9", MTV Россия
+udp://@239.255.2.191:1234
+#EXTINF:0 group-title="Music" tvg-logo="http://gl.weburg.net/00/tv/channels/1/366/amino/545345.jpg" aspect-ratio="16:9", MTV HITS
+udp://@239.255.2.214:1234
+#EXTINF:0 group-title="Music" tvg-logo="http://gl.weburg.net/00/tv/channels/1/365/amino/545340.jpg" aspect-ratio="16:9", MTV Dance
+udp://@239.255.2.217:1234
+#EXTINF:0 group-title="Music" tvg-logo="http://gl.weburg.net/00/tv/channels/1/364/amino/545338.jpg" aspect-ratio="16:9", MTV Rocks
+udp://@239.255.2.215:1234
+#EXTINF:0 group-title="Развлекательный" tvg-logo="http://gl.weburg.net/00/tv/channels/1/62/amino/380609.jpg" aspect-ratio="16:9", Юмор Box
+udp://@239.255.2.92:1234
+#EXTINF:0 group-title="Развлекательный" tvg-logo="http://gl.weburg.net/00/tv/channels/1/24/amino/380593.jpg" aspect-ratio="16:9", 2x2
+udp://@239.255.2.4:1234
+#EXTINF:0 group-title="Развлекательный" tvg-logo="http://gl.weburg.net/00/tv/channels/1/73/amino/380656.jpg" aspect-ratio="16:9", Телекафе
+udp://@239.255.2.38:1234
+#EXTINF:0 group-title="Развлекательный" tvg-logo="http://gl.weburg.net/00/tv/channels/1/234/amino/480463.jpg" aspect-ratio="16:9", Ю - ТВ
+udp://@239.255.2.155:1234
+#EXTINF:0 group-title="Развлекательный" tvg-logo="http://gl.weburg.net/00/tv/channels/1/99/amino/380682.jpg" aspect-ratio="16:9", ТДК
+udp://@239.255.2.71:1234
+#EXTINF:0 group-title="Развлекательный" tvg-logo="http://gl.weburg.net/00/tv/channels/1/8/amino/380620.jpg" aspect-ratio="16:9", World Fashion Channel
+udp://@239.255.2.119:1234
+#EXTINF:0 group-title="Развлекательный" tvg-logo="http://gl.weburg.net/00/tv/channels/1/65/amino/380631.jpg" aspect-ratio="16:9", РазТВ
+udp://@239.255.2.126:1234
+#EXTINF:0 group-title="Развлекательный" tvg-logo="http://gl.weburg.net/00/tv/channels/1/440/amino/604102.jpg" aspect-ratio="16:9", ПЯТНИЦА
+udp://@239.255.2.16:1234
+#EXTINF:0 group-title="Развлекательный" tvg-logo="http://gl.weburg.net/00/tv/channels/1/212/amino/462965.jpg" aspect-ratio="16:9", ID Xtra 
+udp://@239.255.2.141:1234
+#EXTINF:0 group-title="Развлекательный" tvg-logo="http://gl.weburg.net/00/tv/channels/1/582/amino/3408062.jpg" aspect-ratio="16:9", Театр
+udp://@239.255.3.62:1234
 #EXTINF:0 group-title="Детям" tvg-logo="http://gl.weburg.net/00/tv/channels/1/165/amino/380628.jpg" aspect-ratio="16:9", Disney
 udp://@239.255.2.1:1234
 #EXTINF:0 group-title="Детям" tvg-logo="http://gl.weburg.net/00/tv/channels/1/257/amino/496608.jpg" aspect-ratio="16:9", Радость Моя
@@ -181,8 +323,254 @@ udp://@239.255.2.177:1234
 udp://@239.255.2.41:1234
 #EXTINF:0 group-title="Детям" tvg-logo="http://gl.weburg.net/00/tv/channels/1/128/amino/380708.jpg" aspect-ratio="16:9", Boomerang
 udp://@239.255.2.144:1234
+#EXTINF:0 group-title="Детям +" tvg-logo="http://gl.weburg.net/00/tv/channels/1/112/amino/380694.jpg" aspect-ratio="16:9", Nickelodeon
+udp://@239.255.2.17:1234
+#EXTINF:0 group-title="Детям +" tvg-logo="http://gl.weburg.net/00/tv/channels/1/116/amino/380690.jpg" aspect-ratio="16:9", Cartoon Network
+udp://@239.255.2.9:1234
+#EXTINF:0 group-title="Детям +" tvg-logo="http://gl.weburg.net/00/tv/channels/1/155/amino/380722.jpg" aspect-ratio="16:9", JimJam
+udp://@239.255.2.10:1234
+#EXTINF:0 group-title="Детям +" tvg-logo="http://gl.weburg.net/00/tv/channels/1/115/amino/380696.jpg" aspect-ratio="16:9", Зоо ТВ
+udp://@239.255.2.25:1234
+#EXTINF:0 group-title="Детям +" tvg-logo="http://gl.weburg.net/00/tv/channels/1/114/amino/380695.jpg" aspect-ratio="16:9", Детский мир
+udp://@239.255.2.121:1234
+#EXTINF:0 group-title="Детям +" tvg-logo="http://gl.weburg.net/00/tv/channels/1/277/amino/509740.jpg" aspect-ratio="16:9", Мультимания
+udp://@239.255.2.192:1234
+#EXTINF:0 group-title="Детям +" tvg-logo="http://gl.weburg.net/00/tv/channels/1/285/amino/519430.jpg" aspect-ratio="16:9", Gulli
+udp://@239.255.2.196:1234
+#EXTINF:0 group-title="Детям +" tvg-logo="http://gl.weburg.net/00/tv/channels/1/286/amino/519437.jpg" aspect-ratio="16:9", Tiji
+udp://@239.255.2.195:1234
+#EXTINF:0 group-title="Детям +" tvg-logo="http://gl.weburg.net/00/tv/channels/1/432/amino/621736.png" aspect-ratio="16:9", Детский
+udp://@239.255.2.118:1234
+#EXTINF:0 group-title="Детям +" tvg-logo="http://gl.weburg.net/00/tv/channels/1/451/amino/621740.png" aspect-ratio="16:9", ZООПАРК
+udp://@239.255.2.157:1234
+#EXTINF:0 group-title="Познавательный" tvg-logo="http://gl.weburg.net/00/tv/channels/1/215/amino/462961.jpg" aspect-ratio="16:9", Discovery Channel
+udp://@239.255.2.133:1234
+#EXTINF:0 group-title="Познавательный" tvg-logo="http://gl.weburg.net/00/tv/channels/1/210/amino/462958.jpg" aspect-ratio="16:9", Animal Planet
+udp://@239.255.2.134:1234
+#EXTINF:0 group-title="Познавательный" tvg-logo="http://gl.weburg.net/00/tv/channels/1/36/amino/380610.jpg" aspect-ratio="16:9", National Geographic
+udp://@239.255.2.6:1234
+#EXTINF:0 group-title="Познавательный" tvg-logo="http://gl.weburg.net/00/tv/channels/1/119/amino/380699.jpg" aspect-ratio="16:9", Nat Geo Wild
+udp://@239.255.2.8:1234
+#EXTINF:0 group-title="Познавательный" tvg-logo="http://gl.weburg.net/00/tv/channels/1/85/amino/380668.jpg" aspect-ratio="16:9", Ocean TV
+udp://@239.255.2.55:1234
+#EXTINF:0 group-title="Познавательный" tvg-logo="http://gl.weburg.net/00/tv/channels/1/79/amino/380662.jpg" aspect-ratio="16:9", Телепутешествия
+udp://@239.255.2.45:1234
+#EXTINF:0 group-title="Познавательный" tvg-logo="http://gl.weburg.net/00/tv/channels/1/77/amino/380660.jpg" aspect-ratio="16:9", Домашние животные
+udp://@239.255.2.94:1234
+#EXTINF:0 group-title="Познавательный" tvg-logo="http://gl.weburg.net/00/tv/channels/1/26/amino/380598.jpg" aspect-ratio="16:9", Amazing Life
+udp://@239.255.2.89:1234
+#EXTINF:0 group-title="Познавательный" tvg-logo="http://gl.weburg.net/00/tv/channels/1/214/amino/462963.jpg" aspect-ratio="16:9", Discovery Science
+udp://@239.255.2.131:1234
+#EXTINF:0 group-title="Познавательный" tvg-logo="http://gl.weburg.net/00/tv/channels/1/213/amino/462964.jpg" aspect-ratio="16:9", DTX
+udp://@239.255.2.132:1234
+#EXTINF:0 group-title="Познавательный" tvg-logo="http://gl.weburg.net/00/tv/channels/1/216/amino/462962.jpg" aspect-ratio="16:9", TLC
+udp://@239.255.2.140:1234
+#EXTINF:0 group-title="Познавательный" tvg-logo="http://gl.weburg.net/00/tv/channels/1/120/amino/380700.jpg" aspect-ratio="16:9", RTG TV
+udp://@239.255.2.70:1234
+#EXTINF:0 group-title="Познавательный" tvg-logo="http://gl.weburg.net/00/tv/channels/1/121/amino/380701.jpg" aspect-ratio="16:9", Ностальгия
+udp://@239.255.2.105:1234
+#EXTINF:0 group-title="Познавательный" tvg-logo="http://gl.weburg.net/00/tv/channels/1/40/amino/380616.jpg" aspect-ratio="16:9", Viasat Explore
+udp://@239.255.2.49:1234
+#EXTINF:0 group-title="Познавательный" tvg-logo="http://gl.weburg.net/00/tv/channels/1/41/amino/380617.jpg" aspect-ratio="16:9", Viasat History
+udp://@239.255.2.52:1234
+#EXTINF:0 group-title="Познавательный" tvg-logo="http://gl.weburg.net/00/tv/channels/1/469/amino/645262.jpg" aspect-ratio="16:9", Da Vinci Learning
+udp://@239.255.2.173:1234
+#EXTINF:0 group-title="Познавательный" tvg-logo="http://gl.weburg.net/00/tv/channels/1/468/amino/664558.jpg" aspect-ratio="16:9", Viasat Nature
+udp://@239.255.2.172:1234
+#EXTINF:0 group-title="Познавательный" tvg-logo="http://gl.weburg.net/00/tv/channels/1/584/amino/3408068.jpg" aspect-ratio="16:9", ЕГЭ ТВ
+udp://@239.255.3.64:1234
+#EXTINF:0 group-title="Планета Бестселлер" tvg-logo="http://gl.weburg.net/00/tv/channels/1/117/amino/380697.jpg" aspect-ratio="16:9", Моя планета
+udp://@239.255.2.61:1234
+#EXTINF:0 group-title="Планета Бестселлер" tvg-logo="http://gl.weburg.net/00/tv/channels/1/236/amino/485603.jpg" aspect-ratio="16:9", Наука 2.0
+udp://@239.255.2.146:1234
+#EXTINF:0 group-title="Планета Бестселлер" tvg-logo="http://gl.weburg.net/00/tv/channels/1/486/amino/704896.jpg" aspect-ratio="16:9", МУЛЬТ
+udp://@239.255.2.220:1234
+#EXTINF:0 group-title="Планета Бестселлер" tvg-logo="http://gl.weburg.net/00/tv/channels/1/609/amino/4471685.jpg" aspect-ratio="16:9", Ani
+udp://@239.255.3.75:1234
+#EXTINF:0 group-title="Планета Бестселлер" tvg-logo="http://gl.weburg.net/00/tv/channels/1/436/amino/600485.jpg" aspect-ratio="16:9", ИСТОРИЯ
+udp://@239.255.2.248:1234
+#EXTINF:0 group-title="Планета Бестселлер" tvg-logo="http://gl.weburg.net/00/tv/channels/1/289/amino/525207.jpg" aspect-ratio="16:9", Русский Роман
+udp://@239.255.2.197:1234
+#EXTINF:0 group-title="Планета Бестселлер" tvg-logo="http://gl.weburg.net/00/tv/channels/1/411/amino/560403.jpg" aspect-ratio="16:9", Русский Бестселлер
+udp://@239.255.2.229:1234
+#EXTINF:0 group-title="Планета Бестселлер" tvg-logo="http://gl.weburg.net/00/tv/channels/1/476/amino/660890.jpg" aspect-ratio="16:9", Русский детектив
+udp://@239.255.2.112:1234
+#EXTINF:0 group-title="Планета Бестселлер" tvg-logo="http://gl.weburg.net/00/tv/channels/1/414/amino/573145.jpg" aspect-ratio="16:9", КИНО ТВ
+udp://@239.255.2.230:1234
+#EXTINF:0 group-title="Планета Бестселлер" tvg-logo="http://gl.weburg.net/00/tv/channels/1/623/amino/5448702.jpg" aspect-ratio="16:9", Комедия
+udp://@239.255.3.79:1234
+#EXTINF:0 group-title="Планета Бестселлер" tvg-logo="http://gl.weburg.net/00/tv/channels/1/418/amino/575285.jpg" aspect-ratio="16:9", Iнтер+
+udp://@239.255.2.233:1234
+#EXTINF:0 group-title="Планета Бестселлер" tvg-logo="http://gl.weburg.net/00/tv/channels/1/431/amino/590696.jpg" aspect-ratio="16:9", Беларусь 24
+udp://@239.255.2.245:1234
+#EXTINF:0 group-title="Планета Бестселлер" tvg-logo="http://gl.weburg.net/00/tv/channels/1/235/amino/485600.jpg" aspect-ratio="16:9", Страна
+udp://@239.255.2.156:1234
+#EXTINF:0 group-title="Планета Бестселлер" tvg-logo="http://gl.weburg.net/00/tv/channels/1/93/amino/380676.jpg" aspect-ratio="16:9", Сарафан
+udp://@239.255.2.129:1234
+#EXTINF:0 group-title="Планета Бестселлер" tvg-logo="http://gl.weburg.net/00/tv/channels/1/571/amino/2945707.jpg" aspect-ratio="16:9", Живая Планета
+udp://@239.255.3.61:1234
+#EXTINF:0 group-title="Планета Бестселлер" tvg-logo="http://gl.weburg.net/00/tv/channels/1/57/amino/380648.jpg" aspect-ratio="16:9", Парк развлечений
+udp://@239.255.2.117:1234
+#EXTINF:0 group-title="Планета Бестселлер" tvg-logo="http://gl.weburg.net/00/tv/channels/1/278/amino/509770.jpg" aspect-ratio="16:9", 24 ДОК
+udp://@239.255.2.189:1234
+#EXTINF:0 group-title="Планета Бестселлер" tvg-logo="http://gl.weburg.net/00/tv/channels/1/23/amino/380592.jpg" aspect-ratio="16:9", Т 24
+udp://@239.255.2.62:1234
+#EXTINF:0 group-title="Планета Бестселлер" tvg-logo="http://gl.weburg.net/00/tv/channels/1/87/amino/380670.jpg" aspect-ratio="16:9", Мама
+udp://@239.255.2.63:1234
+#EXTINF:0 group-title="Планета Бестселлер" tvg-logo="http://gl.weburg.net/00/tv/channels/1/83/amino/380666.jpg" aspect-ratio="16:9", Настоящее Страшное ТВ
+udp://@239.255.2.67:1234
+#EXTINF:0 group-title="Планета Бестселлер" tvg-logo="http://gl.weburg.net/00/tv/channels/1/370/amino/545525.jpg" aspect-ratio="16:9", Zee TV
+udp://@239.255.2.226:1234
+#EXTINF:0 group-title="Увлечения" tvg-logo="http://gl.weburg.net/00/tv/channels/1/56/amino/380643.jpg" aspect-ratio="16:9", Охота и рыбалка
+udp://@239.255.2.18:1234
+#EXTINF:0 group-title="Увлечения" tvg-logo="http://gl.weburg.net/00/tv/channels/1/61/amino/380644.jpg" aspect-ratio="16:9", Усадьба ТВ
+udp://@239.255.2.79:1234
+#EXTINF:0 group-title="Увлечения" tvg-logo="http://gl.weburg.net/00/tv/channels/1/50/amino/380645.jpg" aspect-ratio="16:9", Здоровое ТВ
+udp://@239.255.2.76:1234
+#EXTINF:0 group-title="Увлечения" tvg-logo="http://gl.weburg.net/00/tv/channels/1/74/amino/380657.jpg" aspect-ratio="16:9", Драйв
+udp://@239.255.2.82:1234
+#EXTINF:0 group-title="Увлечения" tvg-logo="http://gl.weburg.net/00/tv/channels/1/75/amino/380658.jpg" aspect-ratio="16:9", Ретро
+udp://@239.255.2.87:1234
+#EXTINF:0 group-title="Увлечения" tvg-logo="http://gl.weburg.net/00/tv/channels/1/76/amino/380659.jpg" aspect-ratio="16:9", Психология 21
+udp://@239.255.2.93:1234
+#EXTINF:0 group-title="Увлечения" tvg-logo="http://gl.weburg.net/00/tv/channels/1/78/amino/380661.jpg" aspect-ratio="16:9", Вопросы и ответы
+udp://@239.255.2.20:1234
+#EXTINF:0 group-title="Увлечения" tvg-logo="http://gl.weburg.net/00/tv/channels/1/95/amino/380678.jpg" aspect-ratio="16:9", Первый образовательный
+udp://@239.255.2.83:1234
+#EXTINF:0 group-title="Увлечения" tvg-logo="http://gl.weburg.net/00/tv/channels/1/308/amino/531722.jpg" aspect-ratio="16:9", NANO TV
+udp://@239.255.2.193:1234
+#EXTINF:0 group-title="Увлечения" tvg-logo="http://gl.weburg.net/00/tv/channels/1/369/amino/545520.jpg" aspect-ratio="16:9", Загородная жизнь
+udp://@239.255.2.227:1234
+#EXTINF:0 group-title="Увлечения" tvg-logo="http://gl.weburg.net/00/tv/channels/1/516/amino/1248934.jpg" aspect-ratio="16:9", Морской
+udp://@239.255.3.36:1234
+#EXTINF:0 group-title="Увлечения" tvg-logo="http://gl.weburg.net/00/tv/channels/1/585/amino/3408071.jpg" aspect-ratio="16:9", Мир Увлечений
+udp://@239.255.3.63:1234
+#EXTINF:0 group-title="Увлечения" tvg-logo="http://gl.weburg.net/00/tv/channels/1/592/amino/3929096.jpg" aspect-ratio="16:9", БОБЁР
+udp://@239.255.2.152:1234
+#EXTINF:0 group-title="Увлечения +" tvg-logo="http://gl.weburg.net/00/tv/channels/1/139/amino/380715.jpg" aspect-ratio="16:9", Шансон ТВ
+udp://@239.255.2.128:1234
+#EXTINF:0 group-title="Увлечения +" tvg-logo="http://gl.weburg.net/00/tv/channels/1/306/amino/531233.jpg" aspect-ratio="16:9", Ля-минор
+udp://@239.255.2.204:1234
+#EXTINF:0 group-title="Увлечения +" tvg-logo="http://gl.weburg.net/00/tv/channels/1/305/amino/531205.jpg" aspect-ratio="16:9", S TV
+udp://@239.255.2.203:1234
+#EXTINF:0 group-title="Увлечения +" tvg-logo="http://gl.weburg.net/00/tv/channels/1/151/amino/380719.jpg" aspect-ratio="16:9", Охотник и рыболов
+udp://@239.255.2.35:1234
+#EXTINF:0 group-title="Увлечения +" tvg-logo="http://gl.weburg.net/00/tv/channels/1/129/amino/380709.jpg" aspect-ratio="16:9", Живи
+udp://@239.255.2.43:1234
+#EXTINF:0 group-title="Увлечения +" tvg-logo="http://gl.weburg.net/00/tv/channels/1/274/amino/509708.jpg" aspect-ratio="16:9", Оружие
+udp://@239.255.2.188:1234
+#EXTINF:0 group-title="Увлечения +" tvg-logo="http://gl.weburg.net/00/tv/channels/1/247/amino/495053.jpg" aspect-ratio="16:9", Индия ТВ
+udp://@239.255.2.167:1234
+#EXTINF:0 group-title="Увлечения +" tvg-logo="http://gl.weburg.net/00/tv/channels/1/459/amino/624811.jpg" aspect-ratio="16:9", Кухня ТВ
+udp://@239.255.2.181:1234
+#EXTINF:0 group-title="Увлечения +" tvg-logo="http://gl.weburg.net/00/tv/channels/1/553/amino/2117950.jpg" aspect-ratio="16:9", Первый МЕТЕО
+udp://@239.255.3.55:1234
+#EXTINF:0 group-title="Кино" tvg-logo="http://gl.weburg.net/00/tv/channels/1/81/amino/380664.jpg" aspect-ratio="16:9", Кинопоказ
+udp://@239.255.2.11:1234
+#EXTINF:0 group-title="Кино" tvg-logo="http://gl.weburg.net/00/tv/channels/1/141/amino/380716.jpg" aspect-ratio="16:9", Кино Плюс
+udp://@239.255.2.12:1234
+#EXTINF:0 group-title="Кино" tvg-logo="http://gl.weburg.net/00/tv/channels/1/49/amino/380626.jpg" aspect-ratio="16:9", Дом кино
+udp://@239.255.2.7:1234
+#EXTINF:0 group-title="Кино" tvg-logo="http://gl.weburg.net/00/tv/channels/1/227/amino/476015.jpg" aspect-ratio="16:9", Любимое кино
+udp://@239.255.2.148:1234
+#EXTINF:0 group-title="Кино" tvg-logo="http://gl.weburg.net/00/tv/channels/1/424/amino/584645.jpg" aspect-ratio="16:9", Paramount Comedy
+udp://@239.255.2.238:1234
+#EXTINF:0 group-title="Кино" tvg-logo="http://gl.weburg.net/00/tv/channels/1/38/amino/380614.jpg" aspect-ratio="16:9", TV 1000
+udp://@239.255.2.47:1234
+#EXTINF:0 group-title="Кино" tvg-logo="http://gl.weburg.net/00/tv/channels/1/39/amino/380615.jpg" aspect-ratio="16:9", TV 1000 Русское Кино
+udp://@239.255.2.100:1234
+#EXTINF:0 group-title="Кино" tvg-logo="http://gl.weburg.net/00/tv/channels/1/148/amino/380703.jpg" aspect-ratio="16:9", TV1000 Action
+udp://@239.255.2.44:1234
+#EXTINF:0 group-title="Мировое Кино" tvg-logo="http://gl.weburg.net/00/tv/channels/1/150/amino/380718.jpg" aspect-ratio="16:9", AMC
+udp://@239.255.2.99:1234
+#EXTINF:0 group-title="Мировое Кино" tvg-logo="http://gl.weburg.net/00/tv/channels/1/102/amino/380685.JPG" aspect-ratio="16:9", CBS Drama
+udp://@239.255.2.73:1234
+#EXTINF:0 group-title="Мировое Кино" tvg-logo="http://gl.weburg.net/00/tv/channels/1/142/amino/380717.jpg" aspect-ratio="16:9", SONY ТВ (SET)
+udp://@239.255.2.48:1234
+#EXTINF:0 group-title="Мировое Кино" tvg-logo="http://gl.weburg.net/00/tv/channels/1/109/amino/380692.jpg" aspect-ratio="16:9", SONY SCI-FI
+udp://@239.255.2.51:1234
+#EXTINF:0 group-title="Мировое Кино" tvg-logo="http://gl.weburg.net/00/tv/channels/1/425/amino/584646.jpg" aspect-ratio="16:9", SONY TURBO
+udp://@239.255.2.239:1234
+#EXTINF:0 group-title="Мировое Кино" tvg-logo="http://gl.weburg.net/00/tv/channels/1/452/amino/621742.png" aspect-ratio="16:9", ЕВРОКИНО
+udp://@239.255.2.113:1234
+#EXTINF:0 group-title="Кино +" tvg-logo="http://gl.weburg.net/00/tv/channels/1/552/amino/2117947.jpg" aspect-ratio="16:9", Кинохит
+udp://@239.255.3.51:1234
+#EXTINF:0 group-title="Кино +" tvg-logo="http://gl.weburg.net/00/tv/channels/1/103/amino/380686.jpg" aspect-ratio="16:9", Феникс+Кино
+udp://@239.255.2.46:1234
+#EXTINF:0 group-title="Кино +" tvg-logo="http://gl.weburg.net/00/tv/channels/1/105/amino/380688.jpg" aspect-ratio="16:9", TV XXI
+udp://@239.255.2.69:1234
+#EXTINF:0 group-title="Кино +" tvg-logo="http://gl.weburg.net/00/tv/channels/1/104/amino/380687.jpg" aspect-ratio="16:9", Много ТВ
+udp://@239.255.2.109:1234
+#EXTINF:0 group-title="Кино +" tvg-logo="http://gl.weburg.net/00/tv/channels/1/586/amino/3408074.jpg" aspect-ratio="16:9", Дом кино Премиум
+udp://@239.255.3.66:1234
+#EXTINF:0 group-title="Кино +" tvg-logo="http://gl.weburg.net/00/tv/channels/1/248/amino/495056.jpg" aspect-ratio="16:9", Комедия ТВ
+udp://@239.255.2.168:1234
+#EXTINF:0 group-title="Кино +" tvg-logo="http://gl.weburg.net/00/tv/channels/1/168/amino/380647.jpg" aspect-ratio="16:9", Наше кино
+udp://@239.255.2.26:1234
+#EXTINF:0 group-title="Кино +" tvg-logo="http://gl.weburg.net/00/tv/channels/1/454/amino/621765.jpg" aspect-ratio="16:9", Русский иллюзион
+udp://@239.255.2.85:1234
+#EXTINF:0 group-title="Кино +" tvg-logo="http://gl.weburg.net/00/tv/channels/1/455/amino/621771.jpg" aspect-ratio="16:9", Иллюзион+
+udp://@239.255.2.91:1234
+#EXTINF:0 group-title="Кино +" tvg-logo="http://gl.weburg.net/00/tv/channels/1/611/amino/4675997.jpg" aspect-ratio="16:9", Мужское кино
+udp://@239.255.2.182:1234
+#EXTINF:0 group-title="Спорт" tvg-logo="http://gl.weburg.net/00/tv/channels/1/42/amino/380618.jpg" aspect-ratio="16:9", Viasat Sport
+udp://@239.255.2.54:1234
+#EXTINF:0 group-title="Спорт" tvg-logo="http://gl.weburg.net/00/tv/channels/1/29/amino/380602.jpg" aspect-ratio="16:9", Eurosport 1
+udp://@239.255.2.5:1234
+#EXTINF:0 group-title="Спорт" tvg-logo="http://gl.weburg.net/00/tv/channels/1/177/amino/380677.jpg" aspect-ratio="16:9", КХЛ ТВ
+udp://@239.255.2.77:1234
+#EXTINF:0 group-title="Спорт" tvg-logo="http://gl.weburg.net/00/tv/channels/1/550/amino/2117785.jpg" aspect-ratio="16:9", НТВ-ПЛЮС Спорт
+udp://@239.255.3.54:1234
+#EXTINF:0 group-title="Спорт" tvg-logo="http://gl.weburg.net/00/tv/channels/1/146/amino/380595.jpg" aspect-ratio="16:9", Extreme Sports Channel
+udp://@239.255.2.96:1234
+#EXTINF:0 group-title="Спорт" tvg-logo="http://gl.weburg.net/00/tv/channels/1/519/amino/1249144.jpg" aspect-ratio="16:9", БОКС ТВ
+udp://@239.255.3.37:1234
+#EXTINF:0 group-title="Спорт" tvg-logo="http://gl.weburg.net/00/tv/channels/1/548/amino/2117730.jpg" aspect-ratio="16:9", Теннис
+udp://@239.255.3.47:1234
 #EXTINF:0 group-title="Спорт" tvg-logo="http://gl.weburg.net/00/tv/channels/1/631/amino/5661879.jpg" aspect-ratio="16:9", AB Moteurs
 udp://@239.255.3.82:1234
+#EXTINF:0 group-title="Спорт +" tvg-logo="http://gl.weburg.net/00/tv/channels/1/30/amino/380603.jpg" aspect-ratio="16:9", Eurosport 2
+udp://@239.255.2.66:1234
+#EXTINF:0 group-title="Спорт +" tvg-logo="http://gl.weburg.net/00/tv/channels/1/52/amino/380640.jpg" aspect-ratio="16:9", Боец ТВ
+udp://@239.255.2.104:1234
+#EXTINF:0 group-title="Спорт +" tvg-logo="http://gl.weburg.net/00/tv/channels/1/44/amino/380621.jpg" aspect-ratio="16:9", Авто Плюс
+udp://@239.255.2.106:1234
+#EXTINF:0 group-title="Спорт +" tvg-logo="http://gl.weburg.net/00/tv/channels/1/453/amino/621764.jpg" aspect-ratio="16:9", Русский Экстрим
+udp://@239.255.2.147:1234
+#EXTINF:0 group-title="Спорт +" tvg-logo="http://gl.weburg.net/00/tv/channels/1/456/amino/622986.gif" aspect-ratio="16:9", Футбол
+udp://@239.255.2.165:1234
+#EXTINF:0 group-title="Спорт +" tvg-logo="http://gl.weburg.net/00/tv/channels/1/169/amino/380649.jpg" aspect-ratio="16:9", Баскетбол
+udp://@239.255.2.108:1234
+#EXTINF:0 group-title="Наш футбол" tvg-logo="http://gl.weburg.net/00/tv/channels/1/72/amino/380655.jpg" aspect-ratio="16:9", Наш футбол
+udp://@239.255.2.103:1234
+#EXTINF:0 group-title="Наш футбол" tvg-logo="http://gl.weburg.net/00/tv/channels/1/443/amino/612602.jpg" aspect-ratio="16:9", Наш Футбол HD
+udp://@239.255.2.78:1234
+#EXTINF:0 group-title="ПЛЮС ФУТБОЛ" tvg-logo="http://gl.weburg.net/00/tv/channels/1/542/amino/2053149.jpg" aspect-ratio="16:9", Футбол 1 HD
+udp://@239.255.3.58:1234
+#EXTINF:0 group-title="ПЛЮС ФУТБОЛ" tvg-logo="http://gl.weburg.net/00/tv/channels/1/543/amino/2053153.jpg" aspect-ratio="16:9", Футбол 2 HD
+udp://@239.255.3.57:1234
+#EXTINF:0 group-title="ПЛЮС ФУТБОЛ" tvg-logo="http://gl.weburg.net/00/tv/channels/1/475/amino/656092.jpg" aspect-ratio="16:9", Футбол 3 HD
+udp://@239.255.2.187:1234
+#EXTINF:0 group-title="ПЛЮС ФУТБОЛ" tvg-logo="http://gl.weburg.net/00/tv/channels/1/544/amino/2053156.jpg" aspect-ratio="16:9", Футбол 2
+udp://@239.255.3.46:1234
+#EXTINF:0 group-title="ПЛЮС ФУТБОЛ" tvg-logo="http://gl.weburg.net/00/tv/channels/1/545/amino/2053159.jpg" aspect-ratio="16:9", Футбол 3
+udp://@239.255.3.50:1234
+#EXTINF:0 group-title="Дополнительные каналы" tvg-logo="http://gl.weburg.net/00/tv/channels/1/444/amino/613545.JPG" aspect-ratio="16:9", AMEDIA 1
+udp://@239.255.2.80:1234
+#EXTINF:0 group-title="Дополнительные каналы" tvg-logo="http://gl.weburg.net/00/tv/channels/1/300/amino/526313.jpg" aspect-ratio="16:9", AMEDIA 2
+udp://@239.255.2.199:1234
+#EXTINF:0 group-title="Дополнительные каналы" tvg-logo="http://gl.weburg.net/00/tv/channels/1/368/amino/545517.jpg" aspect-ratio="16:9", Мир Сериала
+udp://@239.255.2.224:1234
+#EXTINF:0 group-title="Дополнительные каналы" tvg-logo="http://gl.weburg.net/00/tv/channels/1/367/amino/545514.jpg" aspect-ratio="16:9", ТНТ4
+udp://@239.255.2.221:1234
+#EXTINF:0 group-title="Дополнительные каналы" tvg-logo="http://gl.weburg.net/00/tv/channels/1/464/amino/642346.png" aspect-ratio="16:9", АВТО 24
+udp://@239.255.2.169:1234
+#EXTINF:0 group-title="Дополнительные каналы" tvg-logo="http://gl.weburg.net/00/tv/channels/1/263/amino/496761.jpg" aspect-ratio="16:9", Дождь
+udp://@239.255.2.176:1234
+#EXTINF:0 group-title="Дополнительные каналы" tvg-logo="http://gl.weburg.net/00/tv/channels/1/417/amino/575279.jpg" aspect-ratio="16:9", Спорт1
+udp://@239.255.2.234:1234
+#EXTINF:0 group-title="Дополнительные каналы" tvg-logo="http://gl.weburg.net/00/tv/channels/1/237/amino/485612.jpg" aspect-ratio="16:9", Спорт
+udp://@239.255.2.145:1234
 #EXTINF:0 group-title="Радио", Love Radio
 udp://@239.255.3.1:1234
 #EXTINF:0 group-title="Радио", Relax FM
